@@ -2,5 +2,5 @@
 ## bb
 ### cc
 
-** bold ** 
-* italic *
+**bold** 
+*italic*
