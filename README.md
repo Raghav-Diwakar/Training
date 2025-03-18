@@ -14,4 +14,4 @@
 
 [Link Name](link)
 
-![Alt ect](Image Link)
+![Alt ect](Image.jpg)
