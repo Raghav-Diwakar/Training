@@ -15,3 +15,10 @@
 [Link Name](link)
 
 ![Alt ect](Image.jpg)
+
+` sudo apt update  `
+
+```
+docker ps
+docker ps -a
+```
