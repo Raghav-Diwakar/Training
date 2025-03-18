@@ -16,7 +16,9 @@
 
 ![Alt ect](Image.jpg)
 
-` sudo apt update  `
+`
+sudo apt update 
+`
 
 ```
 docker ps
