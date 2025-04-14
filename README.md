@@ -13,7 +13,7 @@
 * b
 * c
 
-[Link Name](link)
+[Link Name](www.google.com)
 
 ![Alt ect](Image.jpg)
 
